@@ -8,3 +8,4 @@ Sorry, compared with the windows versions, two functions is deleted in MacOS ver
 I will add them in subsequent version. Thanks!
 When you install the SPDE in MacOS, It Will be installed in 'Application' which usually store software.
 Moving SPDE to other place will influence its functions.
+please note that the source code of SPDE will be available after the manuscript was published. Thanks!
