@@ -8,4 +8,7 @@ Sorry, compared with the windows versions, two functions is deleted in MacOS ver
 I will add them in subsequent version. Thanks!
 When you install the SPDE in MacOS, It Will be installed in 'Application' which usually store software.
 Moving SPDE to other place will influence its functions.
-please note that the source code of SPDE will be available after the manuscript was published. Thanks!
+SPDE has been published in Bioinformatics.
+Please cite it as:
+Xu D, Lu Z, Jin K, Qiu W, Qiao G, Han X, Zhuo R (2021) SPDE: A Multi-functional Software for Sequence Processing and Data Extraction. Bioinformatics, btab235, https://doi.org/10.1093/bioinformatics/btab235 
+Thanks! Furthermore, I need adjust the source code, so it will be uploaded within three or four months.
